@@ -5,3 +5,5 @@ gsutil ls -r gs://dev_project_03
 gsutil cp 'sample.log' gs://dev_project_03
 echo "~~~~~~~~~~~~~ After Uploading File ~~~~~~~~~~~~~~~~~~~~~~~~~~"
 gsutil ls -r gs://dev_project_03
+
+echo "~~~~~~~~~~ Completed ~~~~~~~~~~~~~~~"
